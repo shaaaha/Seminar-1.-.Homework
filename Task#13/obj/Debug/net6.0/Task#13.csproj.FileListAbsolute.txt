@@ -1,0 +1,15 @@
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\bin\Debug\net6.0\Task#13.exe
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\bin\Debug\net6.0\Task#13.deps.json
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\bin\Debug\net6.0\Task#13.runtimeconfig.json
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\bin\Debug\net6.0\Task#13.dll
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\bin\Debug\net6.0\Task#13.pdb
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.AssemblyInfoInputs.cache
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.AssemblyInfo.cs
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.dll
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\refint\Task#13.dll
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.pdb
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\Task#13.genruntimeconfig.cache
+C:\Users\shahi\OneDrive\Рабочий стол\С#.HW№1\Task#13\obj\Debug\net6.0\ref\Task#13.dll
